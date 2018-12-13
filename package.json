@@ -8,7 +8,7 @@
     "mocha": "mocha 'spec/mocks/*.mock.js' 'spec/**/*.js'",
     "lint": "eslint '**/*.js' --ignore-pattern 'node_modules'"
   },
-  "repository": "megahertz/electron-simple-updater",
+  "repository": "javimaravillas/electron-simple-updater",
   "files": [
     "index.js",
     "lib/*"
@@ -28,8 +28,8 @@
   ],
   "author": "Alexey Prokhorov",
   "license": "MIT",
-  "bugs": "https://github.com/megahertz/electron-simple-updater/issues",
-  "homepage": "https://github.com/megahertz/electron-simple-updater#readme",
+  "bugs": "https://github.com/javimaravillas/electron-simple-updater/issues",
+  "homepage": "https://github.com/javimaravillas/electron-simple-updater#readme",
   "engines": {
     "node": ">=8.0"
   },

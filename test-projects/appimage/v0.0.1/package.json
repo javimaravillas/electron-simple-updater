@@ -6,7 +6,7 @@
   "author": "Alexey Prokhorov",
   "description": "electron-simple-updater test project",
   "build": {
-    "appId": "com.github.megahertz.esu.appimage",
+    "appId": "com.github.javimaravillas.esu.appimage",
     "linux": {
       "category": "Development"
     }

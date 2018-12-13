@@ -11,6 +11,9 @@ updater.init({
   autoDownload: false,
 });
 
+//updater.init('https://github.com/javimaravillas/electron-simple-updater/blob/master/example/updates.json');
+
+
 let mainWindow;
 
 app.on('ready', () => {

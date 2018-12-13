@@ -15,7 +15,7 @@
   "license": "MIT",
   "private": true,
   "build": {
-    "appId": "megahertz.electron-simple-updater-example",
+    "appId": "javimaravillas.electron-simple-updater-example",
     "appImage": {
       "systemIntegration": "doNotAsk"
     },
@@ -34,18 +34,18 @@
       "target": "squirrel"
     },
     "squirrelWindows": {
-      "iconUrl": "https://raw.githubusercontent.com/megahertz/electron-simple-updater/master/example/build/icon.ico"
+      "iconUrl": "https://raw.githubusercontent.com/javimaravillas/electron-simple-updater/master/example/build/icon.ico"
     }
   },
   "updater": {
-    "url": "https://raw.githubusercontent.com/megahertz/electron-simple-updater/master/example/updates.json"
+    "url": "https://raw.githubusercontent.com/javimaravillas/electron-simple-updater/master/example/updates.json"
   },
   "engines": {
     "node": ">=6.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/megahertz/electron-simple-updater.git"
+    "url": "git+https://github.com/javimaravillas/electron-simple-updater.git"
   },
   "dependencies": {
     "electron-simple-updater": "^1.2.0"
